@@ -1,0 +1,15 @@
+F:\POC's\StateDP\StateDP\bin\Debug\net6.0\StateDP.exe
+F:\POC's\StateDP\StateDP\bin\Debug\net6.0\StateDP.deps.json
+F:\POC's\StateDP\StateDP\bin\Debug\net6.0\StateDP.runtimeconfig.json
+F:\POC's\StateDP\StateDP\bin\Debug\net6.0\StateDP.dll
+F:\POC's\StateDP\StateDP\bin\Debug\net6.0\StateDP.pdb
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.csproj.AssemblyReference.cache
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.GeneratedMSBuildEditorConfig.editorconfig
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.AssemblyInfoInputs.cache
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.AssemblyInfo.cs
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.csproj.CoreCompileInputs.cache
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.dll
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\refint\StateDP.dll
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.pdb
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\StateDP.genruntimeconfig.cache
+F:\POC's\StateDP\StateDP\obj\Debug\net6.0\ref\StateDP.dll
